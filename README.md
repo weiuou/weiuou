@@ -1,3 +1,5 @@
+## Hi there 👋
+
 I'm weiuou, a developer striving to become an open-sourcerer in the AI era.  
 I explore diverse ideas and technologies, wherever curiosity leads.
 
